@@ -1,5 +1,8 @@
 # NFT Markplace on PolkaVM
 
+> **_Migrate to monorepo for tutorial: Build a NFT marketplace on Asset Hub (Fullstack) :_**  https://github.com/openguild-labs/nft-marketplace-polkaVM
+
+
 1) Commands to run the project:
 
 ```bash
