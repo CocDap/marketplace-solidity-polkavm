@@ -4,7 +4,7 @@ import '@parity/hardhat-polkadot';
 import 'dotenv/config';
 
 const config: HardhatUserConfig = {
-    solidity: '0.8.29',
+    solidity: '0.8.28',
     resolc: {
       compilerSource: 'npm',
 
